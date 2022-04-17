@@ -1,0 +1,16 @@
+@media screen and (max-width: 650px ) {
+    /* .container-fluid aside a img{
+        width: 70px;
+        height: 70px;
+        margin-left: -200px;
+        cursor: pointer;  
+    }  */
+    #logo{
+        margin-left: -10px;
+    } 
+    .cart-item img[alt="pr"]{
+        width: 400px;
+        height: 400px;
+        margin: 10px;
+    } 
+}
